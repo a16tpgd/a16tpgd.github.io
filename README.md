@@ -1,0 +1,1 @@
+a16tpgd personal tool is a personal, single-user tool. It connects the owner Google Drive, Docs and Sheets to an assistant running only on the owner computer, and it is not offered to anyone else. Privacy Policy: https://a16tpgd.github.io/privacy.html
